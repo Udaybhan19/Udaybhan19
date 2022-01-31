@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Udaybhan19
 - 👀 I’m interested in data Science and Artificial Intelligence related work
 - 🌱 I’m currently in 3rd in data science engineering in the IISER Bhopal
-- 💞️ I’m looking to collaborate on Data Science project
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me ...
 
 <!---
