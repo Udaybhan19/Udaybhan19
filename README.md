@@ -1,6 +1,6 @@
 ## - 👋 Hi, I’m @Udaybhan Rathore
-- 👀 I’m interested in data Science, NLP and CV related work
-- 🌱 I’m currently in 4rd in data science engineering in the IISER Bhopal
+- 👀 I’m interested in data Science, NLP and CV-related work
+- 🌱 I’m currently in 5th in data science engineering in the IISER Bhopal
 - 💞️ I’m looking to collaborate on NLP and CV projects
 - 📫 How to reach me ... https://www.linkedin.com/in/udaybhan-rathore/
 
