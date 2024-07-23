@@ -1,8 +1,9 @@
 ## - 👋 Hi, I’m @Udaybhan Rathore
-- 👀 I’m interested in data Science, NLP and CV-related work
-- 🌱 I’m currently in 5th in data science engineering in the IISER Bhopal
-- 💞️ I’m looking to collaborate on NLP and CV projects
-- 📫 How to reach me ... https://www.linkedin.com/in/udaybhan-rathore/
+- 👀 I’m interested in Data Science, Computer Vision, NLP, and AI-related research work.
+- 🌱 Completed Master's degree from the Department of Data Science and Engineering at IISER Bhopal.
+- 💞️ I’m looking to collaborate on multi-models using LLM and Computer Vision models.
+- 📫 How to reach me ... https://sites.google.com/iiserb.ac.in/udaybhan/home 
+- 
 
 <!---
 Udaybhan19/Udaybhan19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
